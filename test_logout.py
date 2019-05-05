@@ -4,3 +4,6 @@ class Testlogout:
         
     def testlogout02(self):
         print("testlogout02")
+    
+    def testlogout03(self):
+        print("testlogout03")
